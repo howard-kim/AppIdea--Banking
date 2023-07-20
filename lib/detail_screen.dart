@@ -20,7 +20,7 @@ class DetailScreen extends StatelessWidget {
             brand: '서브웨이',
             foodName: '샌드위치',
             price: 8900,
-            date: '2023. 7.15. (토)',
+            date: '2023. 7.16. (일)',
           ),
           MoneyLog(
             foodImage: 'assets/images/stew.jpeg',

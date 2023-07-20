@@ -13,7 +13,7 @@ class DetailScreen extends StatelessWidget {
             brand: '맥도날드',
             foodName: '빅맥',
             price: 10000,
-            date: '2023. 7.17. (월)',
+            date: '2023. 7.18. (화)',
           ),
           MoneyLog(
             foodImage: 'assets/images/subway.jpeg',
